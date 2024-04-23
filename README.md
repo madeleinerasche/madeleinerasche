@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madeleinerasche
 - 👀 I’m interested in ... dogs, video games, and disneyland 
-- 🌱 I’m currently learning ... AI and full stack development
+- 🌱 I’m currently learning ... full stack development and web development
 - 💞️ I’m looking to collaborate on ... things that make the world a better place
 - 📫 How to reach me ... linkedin 
 
